@@ -1,0 +1,30 @@
+<svg width="33" height="33" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M30.7363 17.3339C31.4601 9.2082 25.4596 2.03429 17.3339 1.31052C9.20819 0.586746 2.03427 6.58719 1.3105 14.7129C0.586731 22.8386 6.58719 30.0125 14.7129 30.7363C22.8386 31.4601 30.0125 25.4596 30.7363 17.3339Z" fill="url(#paint0_radial_838_1526)"/>
+<g style="mix-blend-mode:soft-light" opacity="0.27">
+<rect style="mix-blend-mode:soft-light" x="14.79" y="19.7373" width="13.625" height="8.8162" fill="url(#pattern0)"/>
+<rect style="mix-blend-mode:soft-light" x="14.79" y="19.7373" width="13.625" height="8.8162" fill="url(#pattern1)"/>
+</g>
+<path style="mix-blend-mode:overlay" opacity="0.5" d="M13.0661 7.97041C13.4588 4.84467 16.5846 2.66466 20.0389 3.10547C23.4933 3.54628 25.9859 6.42357 25.5931 9.51725C25.2004 12.6109 22.0747 14.815 18.6203 14.3822C15.166 13.9494 12.6734 11.0881 13.0661 7.97041Z" fill="url(#paint1_radial_838_1526)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_838_1526" transform="scale(0.0588235 0.0909091)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_838_1526" transform="scale(0.0588235 0.0909091)"/>
+</pattern>
+<radialGradient id="paint0_radial_838_1526" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(18.4879 7.13916) rotate(50.09) scale(28.2118)">
+<stop stop-color="#F8EEED"/>
+<stop offset="0.24" stop-color="#F2E8E9"/>
+<stop offset="0.34" stop-color="#ECE0E0"/>
+<stop offset="0.5" stop-color="#DDCCC8"/>
+<stop offset="0.65" stop-color="#CCB5AD"/>
+<stop offset="1" stop-color="#9B887A"/>
+</radialGradient>
+<radialGradient id="paint1_radial_838_1526" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(29.1968 2.03968) rotate(-172.816) scale(6.16193 5.64579)">
+<stop stop-color="white"/>
+<stop offset="0.45" stop-color="white" stop-opacity="0.34"/>
+<stop offset="0.69" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+<image id="image0_838_1526" width="17" height="11" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAALCAYAAACZIGYHAAAACXBIWXMAAAsSAAALEgHS3X78AAAAt0lEQVQoU52RsQ4BQRRFz65EFBQKiUqi0vAROpVQ+B6dzmf4EonCF2yr04hIFGiOYpHN2MW6yUvezLx3Zu6bSOUP1YHzcxF/KCzSFFiRghoAqGXjYKpE7alEJex0gF2wF8FvdpqkFkLA6ZV9eXpf3fiuJFuHGqsVtaXOHgcT9ZjTrLo1uOyZVNSuWlNH6roAMA4BWUg2aupcHarLR/NNbecB1NzBXoAF6SCvwACoAvucWoBSX1yoOzbvKtEPO8eYAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>
